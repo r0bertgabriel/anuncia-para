@@ -1,4 +1,4 @@
-# Anuncia 0800!
+# Anuncia Pará!
 Repositório oficial da sua plataforma de anúncios GRATUITOS
 
 ## Objetivos:
